@@ -4,7 +4,7 @@
     {
  
      
-        //Entry Point
+        //Entry Point///
         static void  Main()
         {
             #region MyRegion
@@ -118,7 +118,7 @@
             //Console.WriteLine("age : " + age);
             //Console.WriteLine("flag : " + flag); 
             #endregion
-
+            
 
             //Console.Write("Enter a number: ");
             //string input = Console.ReadLine();
